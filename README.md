@@ -36,7 +36,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🛠 Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=,postman,git,github,eclipse,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,eclipse,vscode" height="40" alt="Tools Stack"/>
 </div>
 
 
