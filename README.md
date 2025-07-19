@@ -24,13 +24,13 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🌐 Web & App Technologies
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,spring" height="40" alt="Web & App Technologies"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,spring,,laravel" height="40" alt="Web & App Technologies"/> 
 </div>
 
 
 ### 🗃 Database Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres,laravel" height="40" alt="Database Stack"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" height="40" alt="Database Stack"/>
 </div>
 
 
