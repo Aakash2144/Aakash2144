@@ -25,7 +25,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 ### 🌐 Web & App Technologies
 <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,tailwind" height="40" alt="Web & App Technologies"/> 
-  <img src="https://raw.githubusercontent.com/spring-io/spring.io/master/static/images/spring-logo-white-bg.svg" height="40" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="40" alt="Spring Boot"/>
 </div>
 
 
