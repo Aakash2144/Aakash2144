@@ -24,22 +24,20 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🌐 Web & App Technologies
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,tailwind" height="40" alt="Web & App Technologies"/> 
-  <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="40" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,spring" height="40" alt="Web & App Technologies"/> 
 </div>
-
 
 
 ### 🗃 Database Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" height="40" alt="Database Stack"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres,laravel" height="40" alt="Database Stack"/>
 </div>
+
 
 ### 🛠 Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netbeans,eclipse,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,eclipse,vscode" height="40" alt="Tools Stack"/>
 </div>
-
 
 
 ### 🧠 Programming Languages
