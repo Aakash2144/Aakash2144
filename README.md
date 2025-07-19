@@ -24,7 +24,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🌐 Web & App Technologies
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,spring,,laravel" height="40" alt="Web & App Technologies"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,spring,laravel" height="40" alt="Web & App Technologies"/> 
 </div>
 
 
@@ -36,7 +36,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🛠 Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,eclipse,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=,postman,git,github,eclipse,vscode" height="40" alt="Tools Stack"/>
 </div>
 
 
