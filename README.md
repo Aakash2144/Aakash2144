@@ -23,9 +23,12 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 ## 💻 Tech Stack
 
 ### 🌐 Web & App Technologies
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,sprinBoot,servlets,tailwind," height="40" alt="Web & App Technologies"/>
+<div align="left"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,tailwind" height="40" alt="Web & App Technologies"/> 
+  <img src="https://raw.githubusercontent.com/spring-io/spring.io/master/static/images/spring-logo-white-bg.svg" height="40" alt="Spring Boot"/>
 </div>
+
+
 
 ### 🗃 Database Technologies
 <div align="left">
@@ -34,7 +37,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🛠 Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netbeans,ecllipse,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netbeans,eclipse,vscode" height="40" alt="Tools Stack"/>
 </div>
 
 
